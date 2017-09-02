@@ -1,0 +1,4 @@
+.headline {
+  box-shadow: 0 0 10px #000;
+  border-image: url("") 15 round;
+}
